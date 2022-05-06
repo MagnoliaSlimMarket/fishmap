@@ -1,5 +1,5 @@
 #!/bin/ruby
-
+require "shodan"
 require "resolv"
 require "socket"
 require "colorize"
