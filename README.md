@@ -11,8 +11,6 @@ download the program and then type ```./fishmap -h```
 # Installation
 ```ruby
 gem install shodan
-gem install colorize
-gem install artii
 ```
 ```
 git clone https://github.com/Roh4n-Roh4n/fishmap.git
